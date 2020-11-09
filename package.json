@@ -1,0 +1,19 @@
+{
+  "name": "book-search-client",
+  "version": "1.0.0",
+  "description": "The client side of book-search project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rephael",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1"
+  }
+}
